@@ -1,0 +1,15 @@
+<resources>
+    <!-- Strings a usar en la app -->
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!!!</string>
+    <string name="incorrect_toast">Incorrecto!!!</string>
+    <string name="next_button">Siguiente</string>
+    <!-- Preguntas que mostramos-->
+    <string name="question_one"> El oceano Pacifíco es más grande que el oceano Atlántico.</string>
+    <string name="question_two">El Canal de Suez conecta el Mar Rojo y el oceano Índico</string>
+    <string name="question_three">El nacimiento del rio Nilo está en Egipto </string>
+    <string name="question_four">El rio Amazonas es el rio más largo de America</string>
+    <string name="question_five">El lago Baikal es el lago más antiguo y profundo del mundo</string>
+</resources>
